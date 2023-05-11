@@ -1,0 +1,27 @@
+[
+	{
+		"npi": "E5D61EA2-FDA5-B9C6-BBF2-A174395A9E2E",
+		"firstName": "Troy",
+		"lastName": "Levine"
+	},
+	{
+		"npi": "B47B36C2-48AA-EB22-89A6-55B1EDFD5D58",
+		"firstName": "Malcolm",
+		"lastName": "Alston"
+	},
+	{
+		"npi": "887333E3-C393-9D52-DA5A-FC7E06827E2C",
+		"firstName": "Clarke",
+		"lastName": "Howe"
+	},
+	{
+		"npi": "16967AAE-1FB7-FA4B-91A8-4D745EC1EA16",
+		"firstName": "Bruno",
+		"lastName": "Craig"
+	},
+	{
+		"npi": "CDBE30AA-4173-64A4-8462-828619479265",
+		"firstName": "Alexis",
+		"lastName": "Cote"
+	}
+]
